@@ -1,10 +1,11 @@
+let nome = "vinicius"
+let a = 1   
 
-console.log(true == 0)
+console.log(nome)
+console.log("abc")
+console.log("123")
+console.log("rweiother")
 
-let a = {
-    valueOf() {
-        return 0
-    }
-}
 
-console.log(a.valueOf())
+
+console.log(positivos+" "+negativos+" "+decimais)
